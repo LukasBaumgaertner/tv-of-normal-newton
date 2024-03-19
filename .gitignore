@@ -1,0 +1,12 @@
+__pycache__/
+
+*.xdmf
+*.h5
+*.vtu
+*.txt
+*.msh
+*.pvd
+*.stl
+*.xml
+
+!meshes/fandisk.xml

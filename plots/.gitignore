@@ -1,0 +1,25 @@
+# LaTeX, latexmk related
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.lof
+*.loc
+*.log
+*.lot
+*.fls
+*.out
+*.soc
+*.toc
+*.run.xml
+*.synctex.gz
+*.nac
+
+# PDF files
+*.pdf
+
+# vim related
+*.swp
+*.swo
+
